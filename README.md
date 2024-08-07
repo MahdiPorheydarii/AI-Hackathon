@@ -15,7 +15,7 @@ Due to the Contest Code of Conduct, we are unable to share the datasets publicly
 
 The contest featured two main problems judged by an automated system. Here, we describe each problem and outline our solutions.
 
-### Problem 1
+### [Problem 1](problems/شغل_جدید.pdf)
 
 **Overview:**
 
@@ -46,7 +46,7 @@ The dataset provided consists of news articles collected over several days from 
 3. **Word Count in `varzesh3`:** For all HTML files related to `varzesh3`, count the occurrences of the words `کشتی`, `والیبال`, and `فوتبال` in `p` tags.
 4. **Most Repeated Word in `h2` Tags:** Find the most repeated word in `h2` tags among all news collected on 2023-08-01, excluding provided stopwords.
 
-### Problem 2
+### [Problem 2](problems/دسته_بندی.pdf)
 
 **Overview:**
 
